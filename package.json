@@ -1,0 +1,16 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.server.js",
+  "scripts": {
+    "start": "nodemon api.server.js"
+  },
+  "author": "straight-code",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19",
+    "react": "^18.2.0"
+  }
+}

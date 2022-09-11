@@ -1,0 +1,53 @@
+[
+    {  
+    "id": 1, 
+    "name": "rookie-plan",
+    "price": 25,
+    "points_price": 2500 ,
+    "plan_elements": {
+        "id": 1,
+        "plan_features": {
+            "feature_0": "elementtype1",
+            "feature_1": "elementtype2"
+        }
+    }
+},
+{
+    "id": 2, 
+    "name": "programmer-plan",
+    "price": 55,
+    "points_price": 5500,
+    "plan_elements": {
+        "id": 1,
+        "plan_features": {
+            "feature_0": "elementtype1",
+            "feature_1": "elementtype2",
+            "feature_2": "elementtype3",
+            "feature_3": "elementtype4",
+            "feature_4": "elementtype5",
+            "feature_5": "elementtype6"
+        }
+    }
+},
+{
+    "id": 3, 
+    "name": "hacker-plan",
+    "price": 110, 
+    "points_price": 11000,
+    "plan_elements": {
+        "id": 1,
+        "plan_features": {
+            "feature_0": "elementtype1",
+            "feature_1": "elementtype2",
+            "feature_2": "elementtype3",
+            "feature_3": "elementtype4",
+            "feature_4": "elementtype5",
+            "feature_5": "elementtype6",
+            "feature_6": "elementtype7",
+            "feature_7": "elementtype8",
+            "feature_8": "elementtype9",
+            "feature_9": "elementtype10"
+        }
+    }
+}
+]

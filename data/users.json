@@ -1,0 +1,48 @@
+[
+    {  
+        "id": 1, 
+        "username": "straight-code",
+        "balance": 25000,
+        "points": 250000,
+        "withdraws_completed": "105000",
+        "deposited": "55000",
+        "plans_active": true
+    },
+    {
+        "id": 2, 
+        "username": "bot1",
+        "price": 10000,
+        "balance": 100000,
+        "withdraws_completed": "0",
+        "deposited": "0",
+        "plans_active": false
+    },
+    {
+        "id": 3, 
+        "username": "bot2",
+        "balance": 10000,
+        "points": 100000,
+        "withdraws_completed": "0",
+        "deposited": "0",
+        "plans_active": false
+    },
+    {
+        "id": 4, 
+        "username": "rwondaz",
+        "balance": 100,
+        "points": 1000,
+        "withdraws_completed": "0",
+        "deposited": "0",
+        "plans_active": true
+    },
+    {
+        "id": 5, 
+        "username": "bot28",
+        "balance": 10000,
+        "points": 100000,
+        "withdraws_completed": "0",
+        "deposited": "0",
+        "plans_active": false
+    }
+
+]

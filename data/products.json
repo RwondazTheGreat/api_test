@@ -1,0 +1,74 @@
+[ 
+    {  
+        "id": 1, 
+        "name": "product-1",
+        "price": 25,
+        "points_price": 2500,
+        "type": "software",
+        "features": {
+            "id": 1,
+            "feature_names": {
+                "feature_name": "pro+"
+            }
+        }
+    },
+    {  
+        "id": 2, 
+        "name": "product-2",
+        "price": 255,
+        "points_price": 25500,
+        "type": "software",
+        "features": {
+            "id": 1,
+            "feature_names": {
+                "feature_name": "pro++"
+            }
+        }
+    },
+    {  
+        "id": 3, 
+        "name": "product-3",
+        "price": 205,
+        "points_price": 20500,
+        "type": "software",
+        "features": {
+            "id": 1,
+            "feature_names": {
+                "feature_name": "pro+"
+            }
+        }
+    },
+    {  
+        "id": 4, 
+        "name": "product-4",
+        "price": 425,
+        "points_price": 42500,
+        "type": "software",
+        "features": {
+            "id": 1,
+            "feature_names": {
+                "feature_name": "Maxpro+"
+            }
+        }
+    },
+    {  
+        "id": 5, 
+        "name": "product-5",
+        "price": 1025,
+        "points_price": 102500,
+        "type": "software",
+        "features_0": {
+            "id": 1,
+            "feature_names": {
+                "feature_name": "pro++"
+            }
+        },
+            "features_1": {
+                "id": 2,
+                "feature_names": {
+                    "feature_name": "Maxpro++"
+                }
+               
+        }
+    }
+]
